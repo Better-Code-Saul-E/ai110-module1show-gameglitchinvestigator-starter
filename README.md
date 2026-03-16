@@ -26,15 +26,19 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+
 It was to help us realize that code that looks perfect can have errors.
 
 - [ ] Detail which bugs you found.
+
 The game told users to go higher regardless if it was high or not
 The scaling for the modes seemed to be reversed
 The updatescore function game +5 points for wrong guesses on even numbered attempts
 
 - [ ] Explain what fixes you applied.
-I applied all the fixes for the bugs that i had found
+
+I applied all the fixes for the bugs that i had found.
+I had AI rewrite the conditional staments, fix the sesson_state management as well as handling the parsing.
 
 ## 📸 Demo
 
